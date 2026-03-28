@@ -1,5 +1,4 @@
 title: News Briefing
-email: zj-wpc@example.com
 description: 每日全球新闻简报
 baseurl: ""
 url: "https://zj-wpc.github.io"
@@ -9,6 +8,9 @@ github:
 markdown: kramdown
 theme: minima
 timezone: Asia/Shanghai
+
+# 固定链接格式：/年份/月份/日期/标题.html
+permalink: /:year/:month/:day/:title.html
 
 collections:
   posts:

@@ -1,0 +1,52 @@
+---
+layout: default
+title: 存档
+permalink: /posts/
+---
+
+<h1>📁 新闻简报存档</h1>
+
+<p class="post-meta">共 {{ site.posts | size }} 篇简报</p>
+
+{% if site.posts.size > 0 %}
+<ul class="post-list">
+  {% for post in site.posts reversed %}
+  <li>
+    <span class="post-date">{{ post.date | date: "%Y-%m-%d" }}</span>
+    <a href="{{ post.url }}">{{ post.title }}</a>
+  </li>
+  {% endfor %}
+</ul>
+{% else %}
+<p>暂无存档。</p>
+{% endif %}
+
+<style>
+.post-list {
+  list-style: none;
+  padding: 0;
+  margin: 20px 0;
+}
+
+.post-list li {
+  padding: 12px 0;
+  border-bottom: 1px solid var(--border-color);
+  display: flex;
+  gap: 15px;
+}
+
+.post-date {
+  color: var(--text-secondary);
+  font-size: 0.9em;
+  min-width: 90px;
+}
+
+.post-list a {
+  color: var(--link-color);
+  font-size: 1.05em;
+}
+
+.post-list a:hover {
+  text-decoration: underline;
+}
+</style>

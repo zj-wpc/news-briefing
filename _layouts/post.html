@@ -1,0 +1,14 @@
+---
+layout: default
+---
+<article>
+  <header>
+    <h1>{{ page.title }}</h1>
+    <p class="date">{{ page.date | date: "%Y-%m-%d" }}</p>
+  </header>
+  
+  {{ content }}
+  
+  <hr>
+  <p><a href="/posts/">← Back to Archive</a></p>
+</article>

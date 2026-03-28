@@ -1,6 +1,6 @@
 title: News Briefing
 description: 每日全球新闻简报
-baseurl: ""
+baseurl: "/news-briefing"
 url: "https://zj-wpc.github.io"
 github:
   repo: zj-wpc/news-briefing

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "2026-03-31 全球新闻简报"
 date: 2026-03-31 13:00
 ---

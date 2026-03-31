@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "2026-03-31 全球新闻简报"
-date: 2026-03-31 13:00
+date: 2026-03-31 00:00:00 +0800
 ---
 
 # 📰 今日全球新闻简报
@@ -14,281 +14,189 @@ date: 2026-03-31 13:00
 
 ## 🔥 今日要闻
 
-### [胡塞武装对以色列发动导弹袭击](https://www.bbc.com/news/live/cje4x38q8xqt) <span style='color:#888;font-size:0.9em'>来源: BBC</span>
-*LIVE Yemen's Houthis launch second missile attack on Israel and vow to continue *
+胡塞武装对以色列发动导弹袭击 [[🔗链接]](https://www.bbc.com/news/live/cje4x38q8xqt)
 
-**其他来源**:
-- [France 24](https://www.france24.com/en/middle-east/20260328-yemen-s-houthis-launch-ballistic-missile-at-israel-as-middle-east-conflict-escalates)
-- [Euronews](https://www.euronews.com/2026/03/28/yemens-houthis-say-they-carried-out-their-first-military-operation-targeting-israel-succes)
+特朗普对伊战争策略效果存疑 [[🔗链接]](https://bbc.com/news/articles/c5y969pnxgvo)
 
-### [特朗普对伊战争策略效果存疑](https://bbc.com/news/articles/c5y969pnxgvo) <span style='color:#888;font-size:0.9em'>来源: BBC</span>
-*Trump is waging war based on instinct and it isn't working  One month into the c*
+伊朗战争持续 [[🔗链接]](https://news.sky.com/story/iran-war-latest-trump-tehran-israel-strikes-us-drone-live-sky-news-13509565)
 
-### [伊朗战争持续](https://news.sky.com/story/iran-war-latest-trump-tehran-israel-strikes-us-drone-live-sky-news-13509565) <span style='color:#888;font-size:0.9em'>来源: Sky News</span>
-*Houthis vow to continue strikes after joining Iran war*
-
-**其他来源**:
-- [NPR](https://www.npr.org/2026/03/28/nx-s1-5763702/no-kings-saturday-protests)
-- [France 24](https://www.france24.com/en/europe/20260327-rubio-says-iran-war-to-last-weeks-no-us-ground-troops-needed)
-- [ABC Australia](https://www.abc.net.au/news/2026-03-29/australians-may-be-losing-faith-in-us-alliance-hastie-says/106508216)
-
-### [俄罗斯向伊朗提供情报](https://news.sky.com/story/iran-war-latest-trump-tehran-israel-strikes-us-drone-live-sky-news-13509565#11428106) <span style='color:#888;font-size:0.9em'>来源: Sky News</span>
-*Russia gave Iran intel that led to attack on US troops, Zelenskyy claims*
+俄罗斯向伊朗提供情报 [[🔗链接]](https://news.sky.com/story/iran-war-latest-trump-tehran-israel-strikes-us-drone-live-sky-news-13509565#11428106)
 
 
 ---
 
 ## 🌍 国际政治
 
-### [中东局势](https://bbc.com/news/articles/cq8wy7g1gd1o) <span style='color:#888;font-size:0.9em'>来源: BBC</span>
-*No Kings protests across the US rally against Donald Trump  One of the flagship *
+中东局势 [[🔗链接]](https://bbc.com/news/articles/cq8wy7g1gd1o)
 
-**其他来源**:
-- [Sky News](https://news.sky.com/story/iran-war-latest-trump-tehran-israel-strikes-us-drone-live-sky-news-13509565#11427761)
-- [Sky News](https://news.sky.com/story/iran-war-latest-trump-tehran-israel-strikes-us-drone-live-sky-news-13509565#11427741)
-- [Al Jazeera](https://www.aljazeera.com/news/liveblog/2026/3/29/iran-war-live-houthis-attack-israel-anti-war-protesters-rally-in-tel-aviv)
+Scale of death across Middle E... [[🔗链接]](https://news.sky.com/story/iran-war-latest-trump-tehran-israel-strikes-us-drone-live-sky-news-13509565#11428402)
 
-### [Scale of death across Middle E...](https://news.sky.com/story/iran-war-latest-trump-tehran-israel-strikes-us-drone-live-sky-news-13509565#11428402) <span style='color:#888;font-size:0.9em'>来源: Sky News</span>
-*Scale of death across Middle East since war started*
+'Everything must be done' to s... [[🔗链接]](https://news.sky.com/story/iran-war-latest-trump-tehran-israel-strikes-us-drone-live-sky-news-13509565#11427644)
 
-### ['Everything must be done' to s...](https://news.sky.com/story/iran-war-latest-trump-tehran-israel-strikes-us-drone-live-sky-news-13509565#11427644) <span style='color:#888;font-size:0.9em'>来源: Sky News</span>
-*'Everything must be done' to stop Iraq being dragged into war*
+Concerns grow as attacks in Ir... [[🔗链接]](https://www.aljazeera.com/news/liveblog/2026/3/29/iran-war-live-houthis-attack-israel-anti-war-protesters-rally-in-tel-aviv?update=4443263)
 
-### [Concerns grow as attacks in Ir...](https://www.aljazeera.com/news/liveblog/2026/3/29/iran-war-live-houthis-attack-israel-anti-war-protesters-rally-in-tel-aviv?update=4443263) <span style='color:#888;font-size:0.9em'>来源: Al Jazeera</span>
-*Concerns grow as attacks in Iraq’s Kurdish region surge*
+Thwarted 'terror attack' [[🔗链接]](https://abcnews.com/International/police-thwart-terror-attack-bank-america-building-paris/story?id=131504365)
 
-### [Thwarted 'terror attack'](https://abcnews.com/International/police-thwart-terror-attack-bank-america-building-paris/story?id=131504365) <span style='color:#888;font-size:0.9em'>来源: ABC News US</span>
+Three attack scenarios [[🔗链接]](https://www.cnbc.com/2026/03/26/iran-war-trump-us-troops-kharg-island-qeshm-island-nuclear-middle-east.html)
 
-### [Three attack scenarios](https://www.cnbc.com/2026/03/26/iran-war-trump-us-troops-kharg-island-qeshm-island-nuclear-middle-east.html) <span style='color:#888;font-size:0.9em'>来源: CNBC</span>
+War returns to southern Lebano... [[🔗链接]](https://www.lemonde.fr/en/international/article/2026/03/29/war-returns-to-southern-lebanon-southern-people-have-endured-so-many-sacrifices_6751906_4.html)
 
-### [War returns to southern Lebano...](https://www.lemonde.fr/en/international/article/2026/03/29/war-returns-to-southern-lebanon-southern-people-have-endured-so-many-sacrifices_6751906_4.html) <span style='color:#888;font-size:0.9em'>来源: Le Monde</span>
-*War returns to southern Lebanon: 'Southern people have endured so many sacrifice*
+全球经济动态 [[🔗链接]](https://www.scmp.com/news/china/diplomacy/article/3348256/why-are-smugglers-swarming-east-africa-ants-send-china-and-europe?module=top_story&pgtype=homepage)
 
-### [全球经济动态](https://www.scmp.com/news/china/diplomacy/article/3348256/why-are-smugglers-swarming-east-africa-ants-send-china-and-europe?module=top_story&pgtype=homepage) <span style='color:#888;font-size:0.9em'>来源: SCMP</span>
-*Why are smugglers swarming East Africa for ants to send to China and Europe? A b*
-
-**其他来源**:
-- [CNA](https://www.channelnewsasia.com/commentary/iran-war-hormuz-energy-oil-crisis-covid-pandemic-6021176)
-
-### [Retro Japan: 1923 red brick wa...](https://mainichi.jp/english/articles/20260326/p2a/00m/0et/014000c) <span style='color:#888;font-size:0.9em'>来源: Mainichi</span>
-*Retro Japan: 1923 red brick warehouse in Osaka exudes atmosphere of enduring his*
+Retro Japan: 1923 red brick wa... [[🔗链接]](https://mainichi.jp/english/articles/20260326/p2a/00m/0et/014000c)
 
 
 ---
 
 ## 💰 经济
 
-### [国际油价波动](https://www.france24.com/en/france/20260328-%F0%9F%94%B4-france-foils-paris-bomb-plot-outside-us-bank-opens-anti-terror-probe) <span style='color:#888;font-size:0.9em'>来源: France 24</span>
-*France foils Paris bomb plot outside US bank, opens anti-terror probe*
+国际油价波动 [[🔗链接]](https://www.france24.com/en/france/20260328-%F0%9F%94%B4-france-foils-paris-bomb-plot-outside-us-bank-opens-anti-terror-probe)
 
-**其他来源**:
-- [Euronews](https://www.euronews.com/2026/03/28/french-authorities-foil-bomb-attack-outside-bank-of-america-branch-in-paris)
-- [CNBC](https://www.cnbc.com/2026/03/28/oil-gas-prices-iran-war-hormuz.html)
-
-### [财经新闻](https://www.euronews.com/my-europe/2026/03/28/the-eus-recipe-for-trade-deals-easy-on-beef-tough-on-wine) <span style='color:#888;font-size:0.9em'>来源: Euronews</span>
-*The EU's recipe for trade deals : easy on beef, tough on wine*
-
-**其他来源**:
-- [The Atlantic](https://www.theatlantic.com/ideas/2026/03/energy-destruction-iran-war/686594/)
+财经新闻 [[🔗链接]](https://www.euronews.com/my-europe/2026/03/28/the-eus-recipe-for-trade-deals-easy-on-beef-tough-on-wine)
 
 
 ---
 
 ## 🔬 科技
 
-### [科技新闻](https://bbc.com/news/articles/c2034ww6kqxo) <span style='color:#888;font-size:0.9em'>来源: BBC</span>
-*Prison phone call recordings raise questions over ex-Abercrombie boss' fitness f*
-
-**其他来源**:
-- [Sky News](https://news.sky.com/science-climate-tech)
-- [Sky News](https://news.sky.com/story/iran-war-latest-trump-tehran-israel-strikes-us-drone-live-sky-news-13509565#11428147)
-- [Sky News](https://news.sky.com/story/iran-war-latest-trump-tehran-israel-strikes-us-drone-live-sky-news-13509565#11427694)
+科技新闻 [[🔗链接]](https://bbc.com/news/articles/c2034ww6kqxo)
 
 
 ---
 
 ## 📋 其他
 
-### [国际新闻](https://bbc.com/news/articles/cm2rdd6mpvzo) <span style='color:#888;font-size:0.9em'>来源: BBC</span>
-*In photos: A pesticide tragedy that haunts an Indian state  Endosulfan, a toxic *
+国际新闻 [[🔗链接]](https://bbc.com/news/articles/cm2rdd6mpvzo)
 
-**其他来源**:
-- [BBC](https://bbc.com/news/articles/c1w40dy58vwo)
-- [BBC](https://bbc.com/news/articles/c74vedxjq8zo)
-- [BBC](https://bbc.com/news/articles/c9vlm4j47e2o)
+India restoring a centuries-ol... [[🔗链接]](https://bbc.com/news/articles/cj0vj36yd12o)
 
-### [India restoring a centuries-ol...](https://bbc.com/news/articles/cj0vj36yd12o) <span style='color:#888;font-size:0.9em'>来源: BBC</span>
-*India restoring a centuries-old royal kitchen that never stopped serving food  T*
+I escaped North Korea with my ... [[🔗链接]](https://bbc.com/news/articles/c239n93ejm8o)
 
-### [I escaped North Korea with my ...](https://bbc.com/news/articles/c239n93ejm8o) <span style='color:#888;font-size:0.9em'>来源: BBC</span>
-*I escaped North Korea with my mum. Now I'm terrified she might be sent back  Geu*
+'No Kings'抗议活动在全美举行 [[🔗链接]](https://www.npr.org/sections/the-picture-show/2026/03/28/g-s1-115637/photos-no-kings-protests-across-the-country)
 
-### ['No Kings'抗议活动在全美举行](https://www.npr.org/sections/the-picture-show/2026/03/28/g-s1-115637/photos-no-kings-protests-across-the-country) <span style='color:#888;font-size:0.9em'>来源: NPR</span>
-*Photos: 'No Kings' protests Across the country*
+Defense Secretary Hegseth inte... [[🔗链接]](https://www.npr.org/2026/03/27/nx-s1-5763863/hegseth-soldiers-promotions)
 
-**其他来源**:
-- [ABC News US](https://abcnews.com/Politics/kings-protesters-set-rally-cities-towns-country-saturday/story?id=131472712)
-- [The Guardian](https://www.theguardian.com/us-news/gallery/2026/mar/28/no-kings-protests-across-the-world-in-pictures)
+France 24 - International brea... [[🔗链接]](https://www.france24.com/en/)
 
-### [Defense Secretary Hegseth inte...](https://www.npr.org/2026/03/27/nx-s1-5763863/hegseth-soldiers-promotions) <span style='color:#888;font-size:0.9em'>来源: NPR</span>
-*Defense Secretary Hegseth intervened to stop promotions of Black and female offi*
+Senegal parades AFCON trophy a... [[🔗链接]](https://www.france24.com/en/sport/20260328-senegal-parade-afcon-trophy-in-france-despite-being-stripped-of-title)
 
-### [France 24 - International brea...](https://www.france24.com/en/) <span style='color:#888;font-size:0.9em'>来源: France 24</span>
-*France 24 - International breaking news, top stories and headlines*
+Prince Albert II of Monaco [[🔗链接]](https://www.euronews.com/tag/prince-albert-ii-of-monaco)
 
-### [Senegal parades AFCON trophy a...](https://www.france24.com/en/sport/20260328-senegal-parade-afcon-trophy-in-france-despite-being-stripped-of-title) <span style='color:#888;font-size:0.9em'>来源: France 24</span>
-*Senegal parades AFCON trophy at match in France despite being stripped of title*
+Pope Leo XIV urges Monaco to u... [[🔗链接]](https://www.euronews.com/2026/03/28/pope-leo-xiv-decries-the-widening-gap-between-the-rich-and-poor-in-historic-monaco-visit)
 
-### [Prince Albert II of Monaco](https://www.euronews.com/tag/prince-albert-ii-of-monaco) <span style='color:#888;font-size:0.9em'>来源: Euronews</span>
+22 migrants die en route to Gr... [[🔗链接]](https://www.euronews.com/2026/03/28/22-migrants-die-off-the-coast-of-crete-after-six-days-at-sea)
 
-### [Pope Leo XIV urges Monaco to u...](https://www.euronews.com/2026/03/28/pope-leo-xiv-decries-the-widening-gap-between-the-rich-and-poor-in-historic-monaco-visit) <span style='color:#888;font-size:0.9em'>来源: Euronews</span>
-*Pope Leo XIV urges Monaco to use wealth 'for good' in historic visit*
+Iconic Greek singer Marinella ... [[🔗链接]](https://www.euronews.com/culture/2026/03/28/iconic-greek-singer-marinella-dies-aged-87)
 
-### [22 migrants die en route to Gr...](https://www.euronews.com/2026/03/28/22-migrants-die-off-the-coast-of-crete-after-six-days-at-sea) <span style='color:#888;font-size:0.9em'>来源: Euronews</span>
-*22 migrants die en route to Greece from Libya after six days at sea*
+Relationships & Family [[🔗链接]](https://www.abc.net.au/news/lifestyle#anchor-102961870)
 
-### [Iconic Greek singer Marinella ...](https://www.euronews.com/culture/2026/03/28/iconic-greek-singer-marinella-dies-aged-87) <span style='color:#888;font-size:0.9em'>来源: Euronews</span>
-*Iconic Greek singer Marinella dies aged 87*
+BERITA BAHASA INDONESIA [[🔗链接]](https://www.abc.net.au/news/indonesian)
 
-### [Relationships & Family](https://www.abc.net.au/news/lifestyle#anchor-102961870) <span style='color:#888;font-size:0.9em'>来源: ABC Australia</span>
+Analysis by Allyson Horn [[🔗链接]](https://www.abc.net.au/news/allyson-horn/5859212)
 
-### [BERITA BAHASA INDONESIA](https://www.abc.net.au/news/indonesian) <span style='color:#888;font-size:0.9em'>来源: ABC Australia</span>
+Tiger Woods charged with DUI a... [[🔗链接]](https://abcnews.com/US/tiger-woods-involved-rollover-crash-florida-sheriff/story?id=131479825)
 
-### [Analysis by Allyson Horn](https://www.abc.net.au/news/allyson-horn/5859212) <span style='color:#888;font-size:0.9em'>来源: ABC Australia</span>
+UConn coach Auriemma rips NCAA... [[🔗链接]](https://abcnews.com/Sports/wireStory/geno-auriemma-takes-aim-ncaa-womens-double-regional-131505603)
 
-### [Tiger Woods charged with DUI a...](https://abcnews.com/US/tiger-woods-involved-rollover-crash-florida-sheriff/story?id=131479825) <span style='color:#888;font-size:0.9em'>来源: ABC News US</span>
-*Tiger Woods charged with DUI after rollover crash in Florida: Sheriff*
+2nd wife's suspicions confirme... [[🔗链接]](https://abcnews.com/US/2nd-wifes-suspicions-confirmed-husbands-arrest-murder/story?id=98498114)
 
-### [UConn coach Auriemma rips NCAA...](https://abcnews.com/Sports/wireStory/geno-auriemma-takes-aim-ncaa-womens-double-regional-131505603) <span style='color:#888;font-size:0.9em'>来源: ABC News US</span>
-*UConn coach Auriemma rips NCAA over double-regional format in March Madness*
+Artificial intelligence‘They f... [[🔗链接]](https://www.theguardian.com/technology/2026/mar/28/military-deepfakes-ai-propaganda-money)
 
-### [2nd wife's suspicions confirme...](https://abcnews.com/US/2nd-wifes-suspicions-confirmed-husbands-arrest-murder/story?id=98498114) <span style='color:#888;font-size:0.9em'>来源: ABC News US</span>
-*2nd wife's suspicions confirmed with ex-husband's arrest for murder*
+Australia & New Zealand [[🔗链接]](https://www.independent.co.uk/travel/australasia)
 
-### [Artificial intelligence‘They f...](https://www.theguardian.com/technology/2026/mar/28/military-deepfakes-ai-propaganda-money) <span style='color:#888;font-size:0.9em'>来源: The Guardian</span>
-*Artificial intelligence‘They feel true’: political deepfakes are growing in infl*
+C. America & Caribbean [[🔗链接]](https://www.independent.co.uk/travel/central-america-caribbean)
 
-### [Australia & New Zealand](https://www.independent.co.uk/travel/australasia) <span style='color:#888;font-size:0.9em'>来源: The Independent</span>
+各地抗议活动 [[🔗链接]](https://www.independent.co.uk/asia/south-asia/nepal-prime-minister-oli-arrest-gen-z-protests-b2947537.html)
 
-### [C. America & Caribbean](https://www.independent.co.uk/travel/central-america-caribbean) <span style='color:#888;font-size:0.9em'>来源: The Independent</span>
+Australia PM tries to reassure... [[🔗链接]](https://www.independent.co.uk/news/world/australasia/australia-fuel-panic-buying-albanese-b2946869.html)
 
-### [各地抗议活动](https://www.independent.co.uk/asia/south-asia/nepal-prime-minister-oli-arrest-gen-z-protests-b2947537.html) <span style='color:#888;font-size:0.9em'>来源: The Independent</span>
-*Nepal arrests former PM Oli over deadly Gen Z protest crackdown*
+Futures & Commodities [[🔗链接]](https://www.cnbc.com/futures-and-commodities/)
 
-### [Australia PM tries to reassure...](https://www.independent.co.uk/news/world/australasia/australia-fuel-panic-buying-albanese-b2946869.html) <span style='color:#888;font-size:0.9em'>来源: The Independent</span>
-*Australia PM tries to reassure public amid panic buying of fuel*
+Here are 3 themes that drove a... [[🔗链接]](https://www.cnbc.com/2026/03/28/here-are-3-themes-that-drove-another-super-challenging-week-for-stocks.html)
 
-### [Futures & Commodities](https://www.cnbc.com/futures-and-commodities/) <span style='color:#888;font-size:0.9em'>来源: CNBC</span>
+Fall Collien Fernandes [[🔗链接]](https://www.spiegel.de/thema/collien-fernandes/)
 
-### [Here are 3 themes that drove a...](https://www.cnbc.com/2026/03/28/here-are-3-themes-that-drove-another-super-challenging-week-for-stocks.html) <span style='color:#888;font-size:0.9em'>来源: CNBC</span>
-*Here are 3 themes that drove another super challenging week for stocks*
+Festnahme in Großbritannien: A... [[🔗链接]](https://www.spiegel.de/panorama/derby-in-grossbritannien-auto-fahrer-faehrt-in-innenstadt-in-menschenmenge-mehrere-verletzte-a-d25a7def-ba30-441b-afc7-bf39b00c2a69)
 
-### [Fall Collien Fernandes](https://www.spiegel.de/thema/collien-fernandes/) <span style='color:#888;font-size:0.9em'>来源: Der Spiegel</span>
+Germany news: 13-year-old boy ... [[🔗链接]](https://www.dw.com/en/germany-news-13-year-old-boy-killed-in-witten-stabbing/live-76576299)
 
-### [Festnahme in Großbritannien: A...](https://www.spiegel.de/panorama/derby-in-grossbritannien-auto-fahrer-faehrt-in-innenstadt-in-menschenmenge-mehrere-verletzte-a-d25a7def-ba30-441b-afc7-bf39b00c2a69) <span style='color:#888;font-size:0.9em'>来源: Der Spiegel</span>
-*Festnahme in Großbritannien: Autofahrer fährt in Menschenmenge in Derby – mehrer*
+Drug use and trafficking [[🔗链接]](https://www.lemonde.fr/en/drug-use-and-trafficking/)
 
-### [Germany news: 13-year-old boy ...](https://www.dw.com/en/germany-news-13-year-old-boy-killed-in-witten-stabbing/live-76576299) <span style='color:#888;font-size:0.9em'>来源: DW</span>
-*Germany news: 13-year-old boy killed in Witten stabbing*
+Artificial Intelligence [[🔗链接]](https://www.lemonde.fr/en/artificial-intelligence/)
 
-### [Drug use and trafficking](https://www.lemonde.fr/en/drug-use-and-trafficking/) <span style='color:#888;font-size:0.9em'>来源: Le Monde</span>
+Partager votre abonnement   Pa... [[🔗链接]](https://moncompte.lemonde.fr/)
 
-### [Artificial Intelligence](https://www.lemonde.fr/en/artificial-intelligence/) <span style='color:#888;font-size:0.9em'>来源: Le Monde</span>
+The print   The print [[🔗链接]](https://journal.lemonde.fr)
 
-### [Partager votre abonnement   Pa...](https://moncompte.lemonde.fr/) <span style='color:#888;font-size:0.9em'>来源: Le Monde</span>
-*Partager votre abonnement   Partager votre abonnement Other offers*
+Condizioni  Generali di Serviz... [[🔗链接]](https://www.ansa.it/sito/static/condizioni_generali_di_servizio.html)
 
-### [The print   The print](https://journal.lemonde.fr) <span style='color:#888;font-size:0.9em'>来源: Le Monde</span>
+ABBONAMENTO CONSENTLESS [[🔗链接]](https://www.ansa.it/sito/static/abbonamenti/#piano-offer-consentless)
 
-### [Condizioni  Generali di Serviz...](https://www.ansa.it/sito/static/condizioni_generali_di_servizio.html) <span style='color:#888;font-size:0.9em'>来源: ANSA</span>
-*Condizioni  Generali di Servizio*
+domande più frequenti [[🔗链接]](https://www.ansa.it/sito/static/faq.html)
 
-### [ABBONAMENTO CONSENTLESS](https://www.ansa.it/sito/static/abbonamenti/#piano-offer-consentless) <span style='color:#888;font-size:0.9em'>来源: ANSA</span>
+Ultima ora di Economia [[🔗链接]](https://www.ansa.it/sito/notizie/economia/index.shtml)
 
-### [domande più frequenti](https://www.ansa.it/sito/static/faq.html) <span style='color:#888;font-size:0.9em'>来源: ANSA</span>
+Tutte le notizie di Libri [[🔗链接]](https://www.ansa.it/sito/notizie/cultura/libri/libri.shtml)
 
-### [Ultima ora di Economia](https://www.ansa.it/sito/notizie/economia/index.shtml) <span style='color:#888;font-size:0.9em'>来源: ANSA</span>
+Ultima ora di Cultura [[🔗链接]](https://www.ansa.it/sito/notizie/cultura/index.shtml)
 
-### [Tutte le notizie di Libri](https://www.ansa.it/sito/notizie/cultura/libri/libri.shtml) <span style='color:#888;font-size:0.9em'>来源: ANSA</span>
+TARANTO 2026 XX Giochi del Med... [[🔗链接]](https://www.ansa.it/puglia/notizie/speciali/xx_giochi_del_mediterraneo_taranto_2026/index.shtml)
 
-### [Ultima ora di Cultura](https://www.ansa.it/sito/notizie/cultura/index.shtml) <span style='color:#888;font-size:0.9em'>来源: ANSA</span>
+Trentino Alto Adige/Südtirol [[🔗链接]](https://www.ansa.it/trentino/)
 
-### [TARANTO 2026 XX Giochi del Med...](https://www.ansa.it/puglia/notizie/speciali/xx_giochi_del_mediterraneo_taranto_2026/index.shtml) <span style='color:#888;font-size:0.9em'>来源: ANSA</span>
-*TARANTO 2026 XX Giochi del Mediterraneo*
+FLESSENHALS Hoe denkt de VS de... [[🔗链接]](https://www.nrc.nl/nieuws/2026/03/28/hoe-denkt-de-vs-de-straat-van-hormuz-weer-open-krijgen-a4924178)
 
-### [Trentino Alto Adige/Südtirol](https://www.ansa.it/trentino/) <span style='color:#888;font-size:0.9em'>来源: ANSA</span>
+Houthi’s bevestigen tweede aan... [[🔗链接]](https://www.nrc.nl/nieuws/2026/02/28/liveblog-iran-a4921056)
 
-### [FLESSENHALS Hoe denkt de VS de...](https://www.nrc.nl/nieuws/2026/03/28/hoe-denkt-de-vs-de-straat-van-hormuz-weer-open-krijgen-a4924178) <span style='color:#888;font-size:0.9em'>来源: NRC</span>
-*FLESSENHALS Hoe denkt de VS de Straat van Hormuz weer open te krijgen? De Straat*
+WHO: negen doden onder medisch... [[🔗链接]](https://www.nrc.nl/nieuws/2026/02/28/liveblog-iran-a4921056#upd20260328214150)
 
-### [Houthi’s bevestigen tweede aan...](https://www.nrc.nl/nieuws/2026/02/28/liveblog-iran-a4921056) <span style='color:#888;font-size:0.9em'>来源: NRC</span>
-*Houthi’s bevestigen tweede aanval op Israël, terwijl VS mogelijk grondoffensief *
+FORMULE 1 ‘Belachelijk’ en ‘pi... [[🔗链接]](https://www.nrc.nl/nieuws/2026/03/27/belachelijk-en-pijnlijk-coureurs-zijn-zeer-ontevreden-over-nieuwe-f1-wagens-a4923901)
 
-### [WHO: negen doden onder medisch...](https://www.nrc.nl/nieuws/2026/02/28/liveblog-iran-a4921056#upd20260328214150) <span style='color:#888;font-size:0.9em'>来源: NRC</span>
-*WHO: negen doden onder medisch personeel door Israëlische aanvallen op Zuid-Liba*
+FBI:n johtajan sähköposti hakk... [[🔗链接]](https://yle.fi/uutiset/lyhyesti/74-20217911)
 
-### [FORMULE 1 ‘Belachelijk’ en ‘pi...](https://www.nrc.nl/nieuws/2026/03/27/belachelijk-en-pijnlijk-coureurs-zijn-zeer-ontevreden-over-nieuwe-f1-wagens-a4923901) <span style='color:#888;font-size:0.9em'>来源: NRC</span>
-*FORMULE 1 ‘Belachelijk’ en ‘pijnlijk’: coureurs zijn zeer ontevreden over nieuwe*
+US-Venezuela conflict [[🔗链接]](https://www.scmp.com/topics/us-venezuela-conflict?module=hamburger_menu&pgtype=homepage)
 
-### [FBI:n johtajan sähköposti hakk...](https://yle.fi/uutiset/lyhyesti/74-20217911) <span style='color:#888;font-size:0.9em'>来源: Yle</span>
-*FBI:n johtajan sähköposti hakkeroitiin*
+Year of the Horse 2026 [[🔗链接]](https://www.scmp.com/infographics/china/article/3339061/all-you-need-know-about-year-horse?label=Year%20of%20the%20Horse%202026&module=oneline_menu_trending_int&pgtype=homepage)
 
-### [US-Venezuela conflict](https://www.scmp.com/topics/us-venezuela-conflict?module=hamburger_menu&pgtype=homepage) <span style='color:#888;font-size:0.9em'>来源: SCMP</span>
+Documentaries & Shows [[🔗链接]](https://www.channelnewsasia.com/watch/programmes)
 
-### [Year of the Horse 2026](https://www.scmp.com/infographics/china/article/3339061/all-you-need-know-about-year-horse?label=Year%20of%20the%20Horse%202026&module=oneline_menu_trending_int&pgtype=homepage) <span style='color:#888;font-size:0.9em'>来源: SCMP</span>
+Mental Health Matters [[🔗链接]](https://www.channelnewsasia.com/today/mental-health-matters)
 
-### [Documentaries & Shows](https://www.channelnewsasia.com/watch/programmes) <span style='color:#888;font-size:0.9em'>来源: CNA</span>
+SG60 Shaping Tomorrow [[🔗链接]](https://www.channelnewsasia.com/sg60-shaping-tomorrow)
 
-### [Mental Health Matters](https://www.channelnewsasia.com/today/mental-health-matters) <span style='color:#888;font-size:0.9em'>来源: CNA</span>
+Events & Partnerships [[🔗链接]](https://www.channelnewsasia.com/events-partnerships)
 
-### [SG60 Shaping Tomorrow](https://www.channelnewsasia.com/sg60-shaping-tomorrow) <span style='color:#888;font-size:0.9em'>来源: CNA</span>
+artificial intelligence [[🔗链接]](https://www.channelnewsasia.com/topic/artificial-intelligence)
 
-### [Events & Partnerships](https://www.channelnewsasia.com/events-partnerships) <span style='color:#888;font-size:0.9em'>来源: CNA</span>
+Singapore’s riot police get up... [[🔗链接]](https://www.straitstimes.com/singapore/singapores-riot-police-get-upgraded-water-cannon-vehicle-after-20-years?ref=top-story)
 
-### [artificial intelligence](https://www.channelnewsasia.com/topic/artificial-intelligence) <span style='color:#888;font-size:0.9em'>来源: CNA</span>
+Why a woman regrets naming her... [[🔗链接]](https://www.straitstimes.com/business/invest/why-a-woman-regrets-naming-her-daughter-as-co-owner-of-her-26-properties?ref=top-story)
 
-### [Singapore’s riot police get up...](https://www.straitstimes.com/singapore/singapores-riot-police-get-upgraded-water-cannon-vehicle-after-20-years?ref=top-story) <span style='color:#888;font-size:0.9em'>来源: The Straits Times</span>
-*Singapore’s riot police get upgraded water cannon vehicle after 20 years*
+16 mins ago  Singapore’s 2025 ... [[🔗链接]](https://www.straitstimes.com/singapore/environment/singapores-2025-carbon-tax-revenue-holds-steady-experts-say-continued-use-of-tax-discounts-likely?ref=latest-headlines)
 
-### [Why a woman regrets naming her...](https://www.straitstimes.com/business/invest/why-a-woman-regrets-naming-her-daughter-as-co-owner-of-her-26-properties?ref=top-story) <span style='color:#888;font-size:0.9em'>来源: The Straits Times</span>
-*Why a woman regrets naming her daughter as co-owner of her 26 properties*
+38 mins ago  Pedestrian, 74, d... [[🔗链接]](https://www.straitstimes.com/singapore/pedestrian-74-dies-after-accident-in-ang-mo-kio-man-arrested-for-careless-driving?ref=latest-headlines)
 
-### [16 mins ago  Singapore’s 2025 ...](https://www.straitstimes.com/singapore/environment/singapores-2025-carbon-tax-revenue-holds-steady-experts-say-continued-use-of-tax-discounts-likely?ref=latest-headlines) <span style='color:#888;font-size:0.9em'>来源: The Straits Times</span>
-*16 mins ago  Singapore’s 2025 carbon tax revenue holds steady; experts say conti*
+41 mins ago  Car hits pedestri... [[🔗链接]](https://www.straitstimes.com/world/europe/car-hits-pedestrians-in-central-england-city-driver-arrested-police?ref=latest-headlines)
 
-**其他来源**:
-- [The Straits Times](https://www.straitstimes.com/singapore/singapores-riot-police-get-upgraded-water-cannon-vehicle-after-20-years?ref=latest-headlines)
+75% of Japan prefectures boost... [[🔗链接]](https://mainichi.jp/english/articles/20260329/p2g/00m/0na/005000c)
 
-### [38 mins ago  Pedestrian, 74, d...](https://www.straitstimes.com/singapore/pedestrian-74-dies-after-accident-in-ang-mo-kio-man-arrested-for-careless-driving?ref=latest-headlines) <span style='color:#888;font-size:0.9em'>来源: The Straits Times</span>
-*38 mins ago  Pedestrian, 74, dies after accident in Ang Mo Kio; man arrested for*
+Cherry blossoms in full bloom ... [[🔗链接]](https://mainichi.jp/english/articles/20260328/p2g/00m/0na/020000c)
 
-### [41 mins ago  Car hits pedestri...](https://www.straitstimes.com/world/europe/car-hits-pedestrians-in-central-england-city-driver-arrested-police?ref=latest-headlines) <span style='color:#888;font-size:0.9em'>来源: The Straits Times</span>
-*41 mins ago  Car hits pedestrians in central England city, driver arrested: Poli*
+JR East begins Japan's first s... [[🔗链接]](https://mainichi.jp/english/articles/20260329/p2g/00m/0bu/002000c)
 
-### [75% of Japan prefectures boost...](https://mainichi.jp/english/articles/20260329/p2g/00m/0na/005000c) <span style='color:#888;font-size:0.9em'>来源: Mainichi</span>
-*75% of Japan prefectures boosting programs for coexistence with foreigners  （202*
+Explore The Atlantic Archive [[🔗链接]](https://www.theatlantic.com/archive/)
 
-### [Cherry blossoms in full bloom ...](https://mainichi.jp/english/articles/20260328/p2g/00m/0na/020000c) <span style='color:#888;font-size:0.9em'>来源: Mainichi</span>
-*Cherry blossoms in full bloom in central Tokyo area  （2026/3/28）*
+Play The Atlantic Games [[🔗链接]](https://www.theatlantic.com/games/)
 
-### [JR East begins Japan's first s...](https://mainichi.jp/english/articles/20260329/p2g/00m/0bu/002000c) <span style='color:#888;font-size:0.9em'>来源: Mainichi</span>
-*JR East begins Japan's first shinkansen freight service  （2026/3/29）*
+The Bill Maher Effect [[🔗链接]](https://www.theatlantic.com/culture/2026/03/bill-maher-twain-prize-trump-kennedy-center/686608/)
 
-### [Explore The Atlantic Archive](https://www.theatlantic.com/archive/) <span style='color:#888;font-size:0.9em'>来源: The Atlantic</span>
+The Surprising Reason for the ... [[🔗链接]](https://www.theatlantic.com/culture/2026/03/modern-homophobia/686547/)
 
-### [Play The Atlantic Games](https://www.theatlantic.com/games/) <span style='color:#888;font-size:0.9em'>来源: The Atlantic</span>
+America’s Raw-Cheddar Chaos [[🔗链接]](https://www.theatlantic.com/health/2026/03/raw-cheese-outbreak-recall/686605/)
 
-### [The Bill Maher Effect](https://www.theatlantic.com/culture/2026/03/bill-maher-twain-prize-trump-kennedy-center/686608/) <span style='color:#888;font-size:0.9em'>来源: The Atlantic</span>
+Nick Fuentes’s Strategy is Wor... [[🔗链接]](https://www.theatlantic.com/ideas/2026/03/nick-fuentes-leftist-clips/686485/)
 
-### [The Surprising Reason for the ...](https://www.theatlantic.com/culture/2026/03/modern-homophobia/686547/) <span style='color:#888;font-size:0.9em'>来源: The Atlantic</span>
-*The Surprising Reason for the New Homophobia*
-
-### [America’s Raw-Cheddar Chaos](https://www.theatlantic.com/health/2026/03/raw-cheese-outbreak-recall/686605/) <span style='color:#888;font-size:0.9em'>来源: The Atlantic</span>
-
-### [Nick Fuentes’s Strategy is Wor...](https://www.theatlantic.com/ideas/2026/03/nick-fuentes-leftist-clips/686485/) <span style='color:#888;font-size:0.9em'>来源: The Atlantic</span>
-*Nick Fuentes’s Strategy is Working*
-
-### [The Sneaky-Saver Generation](https://www.theatlantic.com/family/2026/03/gen-z-money-anxiety-savings/686558/) <span style='color:#888;font-size:0.9em'>来源: The Atlantic</span>
+The Sneaky-Saver Generation [[🔗链接]](https://www.theatlantic.com/family/2026/03/gen-z-money-anxiety-savings/686558/)
 
 
 ---

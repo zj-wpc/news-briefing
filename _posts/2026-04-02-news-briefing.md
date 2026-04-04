@@ -7,78 +7,82 @@ date: 2026-04-02 00:00:00 +0800
 # 📰 今日全球新闻简报
 
 **日期**: 2026-04-02
-**生成时间**: 10:15
-**新闻数**: 23 条
+**生成时间**: 08:08
+**新闻数**: 22 条
 
 ---
 
 ## 🔥 今日要闻
 
-NASA阿尔忒弥斯二号成功发射，人类重返月球 [[🔗链接]](https://www.bbc.com/news/live/c4g4ygw0r02t)
+美伊战争第五周：伊朗击落2架美军战机，战机残骸画面曝光 [[🔗链接]](https://news.sky.com/story/iran-war-latest-trump-tehran-us-israel-kharg-island-netanyahu-lebanon-strikes-drone-live-sky-news-13509565)
 
-特朗普发表全国讲话，称伊朗战争目标即将完成 [[🔗链接]](https://www.bbc.com/news/live/c36r5p1l7w3t)
+伊朗击落美军战机后打击海湾炼油厂 [[🔗链接]](https://www.npr.org/2026/04/03/g-s1-116314/iran-hits-gulf-refineries-as-trump-warns-u-s-will-attack-iranian-bridges-power-plants)
 
-特朗普威胁退出北约，欧洲盟国高度警惕 [[🔗链接]](https://www.theguardian.com/world/2026/apr/01/trump-says-he-is-absolutely-considering-withdrawing-us-from-nato)
+特朗普：给我更多时间，美国可以拿下伊朗石油 [[🔗链接]](https://www.aljazeera.com/news/2026/4/3/trump-says-with-more-time-us-can-take-the-oil-in-iran)
 
-印尼7.4级地震一人死亡，海啸预警已解除 [[🔗链接]](https://www.bbc.com/news/live/c8xy522nd5lt)
+内塔尼亚胡：以色列已摧毁伊朗70%钢铁产能 [[🔗链接]](https://www.euronews.com/2026/04/03/israels-pm-says-70-of-irans-steel-production-capacity-destroyed-hindering-weapons-producti)
+
+美国请求国会拨款1.5万亿美元用于国防 [[🔗链接]](https://www.euronews.com/2026/04/03/trump-says-us-can-open-hormuz-with-a-little-more-time-and-asks-congress-for-15tr-for-defen)
 
 
 ---
 
 ## 🌍 国际政治
 
-伊朗持续袭击以色列和美军目标，科威特机场起火 [[🔗链接]](https://www.aljazeera.com/news/liveblog/2026/4/2/iran-war-live-trump-to-address-nation-tehran-denies-seeking-ceasefire)
+伊朗称击落2架美军战机展示军事能力 [[🔗链接]](https://www.aljazeera.com/news/liveblog/2026/4/4/iran-war-live-tehran-downs-2-us-warplanes-israel-bombs-lebanon-bridges)
 
-以色列称打死真主党高级指挥官 [[🔗链接]](https://www.theguardian.com/world/2026/apr/01/israel-hits-iran-attacks-killed-senior-hezbollah-commander)
+阿联酋哈布山天然气设施遭袭，至少1人死亡 [[🔗链接]](https://www.aljazeera.com/news/2026/4/3/at-least-one-killed-at-uaes-habshan-gas-facility-after-intercepted-attack)
 
-澳大利亚总理警告：伊朗战争经济冲击将持续数月 [[🔗链接]](https://bbc.com/news/articles/cvg4nre8nl9o)
+乌克兰在哈尔科夫放缓俄军推进 [[🔗链接]](https://www.aljazeera.com/features/2026/4/3/ukraine-slows-enemy-advances-liberates-land-drains-russias-war-chest)
 
-石油价格因战争即将结束预期反弹 [[🔗链接]](https://www.theguardian.com/world/2026/apr/01/iran-war-oil-prices-trump-crude-stock-markets-business-us-israel-middle-east)
+俄罗斯选择复活节升级而非停火，泽连斯基谴责 [[🔗链接]](https://bbc.com/news/articles/cew70wjvv9do)
 
-孟加拉国或成首个因伊朗战争燃料耗尽的国家 [[🔗链接]](https://www.independent.co.uk/asia/south-asia/oil-fuel-shortage-bangladesh-asia-iran-war-b2949757.html)
+布基纳法索军事领导人称必须忘记民主 [[🔗链接]](https://bbc.com/news/articles/cly0zp1xgz3o)
 
-瑞士考虑放弃购买美国爱国者防空系统 [[🔗链接]](https://www.euronews.com/2026/04/01/switzerland-eyes-dropping-purchase-of-us-patriot-air-defence-system-over-delivery-delays)
+苏丹医院遭无人机袭击10人死亡 [[🔗链接]](https://www.aljazeera.com/news/2026/4/3/drone-strike-on-sudan-hospital-kills-10-medical-charity-msf-says)
 
-匈牙利解除否决，欧盟准备向乌克兰支付首批援助 [[🔗链接]](https://www.euronews.com/my-europe/2026/04/01/eu-readies-first-payment-to-ukraine-as-soon-as-hungary-lifts-veto-on-90bn-loan)
+芬兰士兵全天候训练应对俄罗斯全面战争 [[🔗链接]](https://www.euronews.com/2026/04/03/finnish-conscripts-train-for-all-out-war-with-russia)
 
 
 ---
 
 ## 💰 经济
 
-SpaceX秘密提交IPO申请，估值1.75万亿美元 [[🔗链接]](https://www.theguardian.com/technology/2026/apr/01/spacex-public-offering-stock-market)
+特朗普艰难一周：战争和油价带来代价 [[🔗链接]](https://www.npr.org/2026/04/03/nx-s1-5771684/trump-iran-war-gas-prices-bondi)
 
-美国国会达成协议，国土安全部避免停摆 [[🔗链接]](https://abcnews.com/Politics/johnson-thune-announce-plan-end-dhs-shutdown-coming/story?id=131623253)
+24个民主党州起诉特朗普限制邮寄选票 [[🔗链接]](https://www.aljazeera.com/news/2026/4/3/two-dozen-democrat-led-states-sue-trump-over-mail-in-ballot-limits)
 
-亚洲市场因特朗普伊朗讲话震荡 [[🔗链接]](https://www.cnbc.com/2026/04/02/asia-markets-today-live-trump-address-iran-war.html)
+埃隆·马斯克称DOGE已节省800亿美元，审计机构存疑 [[🔗链接]](https://www.npr.org/2026/04/02/nx-s1-5771160/iran-war-trump-speech)
 
-印度股市因伊朗战争影响持续下跌 [[🔗链接]](https://www.cnbc.com/2026/04/02/iran-war-indian-stocks-meltdown-worsen.html)
-
-韩国称伊朗战争表明必须放弃化石燃料 [[🔗链接]](https://www.independent.co.uk/asia/east-asia/south-korea-fuel-shortage-renewables-lee-jae-myung-b2949802.html)
+爱泼斯坦文件发布后为何逮捕这么少 [[🔗链接]](https://www.npr.org/2026/04/03/nx-s1-5766260/epstein-files-arrests-doj-prosecutors)
 
 
 ---
 
 ## 🔬 科技
 
-月球采矿：哪些企业在寻求开发月球资源 [[🔗链接]](https://www.theguardian.com/news/ng-interactive/2026/apr/01/lunar-prospectors-the-businesses-looking-to-mine-the-moon)
+NASA发布Artemis II任务拍摄的震撼地球照片 [[🔗链接]](https://www.aljazeera.com/news/2026/4/3/nasa-releases-first-stunning-artemis-ii-photos-of-earth-from-moon-mission)
 
-SpaceX提交IPO申请，有望成为史上最大规模上市 [[🔗链接]](https://www.theguardian.com/technology/2026/apr/01/spacex-public-offering-stock-market)
+Artemis II第二天：离开地球轨道，顺便修了厕所 [[🔗链接]](https://news.sky.com/video/moon-mission-day-2-leaving-earth-s-orbit-and-fixing-toilets-13527448)
+
+意大利乌菲兹美术馆承认遭网络攻击 [[🔗链接]](https://bbc.com/news/articles/cy51wzeq6g5o)
 
 
 ---
 
 ## 📋 其他
 
-美国最高法院就出生公民权进行历史性听证 [[🔗链接]](https://abcnews.com/Politics/live-updates/supreme-court-birthright-citizenship-live-updates/?id=131444303)
+特朗普白宫舞厅工程揭示神秘地下 bunker [[🔗链接]](https://www.npr.org/2026/04/03/nx-s1-5772665/trump-ballroom-underground-military-bunker)
 
-印度开始世界最大规模人口普查，14亿人口首次统计 [[🔗链接]](https://bbc.com/news/articles/c0de3j5gxmro)
+新巴黎市长誓言用2000万欧元终结校园性暴力 [[🔗链接]](https://www.euronews.com/2026/04/03/new-paris-mayor-vows-to-end-school-sexual-violence-with-20m-euro-plan)
 
-日本通过法律允许离婚后共同监护子女 [[🔗链接]](https://bbc.com/news/articles/c0g1j5g9g8xo)
+澳洲最通缉犯之死留下未解之谜 [[🔗链接]](https://bbc.com/news/articles/cmf7n1z0qpro)
 
-意大利女子误闯足球场被罚款上诉失败 [[🔗链接]](https://bbc.com/news/articles/c0e3j4h7p4wo)
 
-西班牙通过新版权法要求AI公司为训练数据付费 [[🔗链接]](https://www.france24.com/en/europe/20260401-spain-passes-new-copyright-law-requiring-ai-firms-to-pay-for-training-data)
+---
+
+## 📊 来源统计
+
 
 
 ---

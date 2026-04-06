@@ -235,17 +235,20 @@ python3 scripts/publish_to_github.py --file memory/news-briefing-YYYY-MM-DD.md
 # 先 pull
 cd ~/news-briefing && git pull
 
-# 复制文件
-cp memory/news-briefing-YYYY-MM-DD.md _posts/
+# 复制文件（⚠️ 文件名格式：日期在前）
+cp memory/news-briefing-YYYY-MM-DD.md _posts/YYYY-MM-DD-news-briefing.md
 
 # 推送
 git add -A && git commit -m "📰 新闻简报 YYYY-MM-DD" && git push
 ```
 
-### ⚠️ URL 格式（重要）
-- 文件名：`_posts/2026-03-31-news-briefing.md`
-- **正确 URL**：`https://zj-wpc.github.io/news-briefing/2026/03/31/news-briefing.html`
-- Jekyll 自动去掉日期前缀，标题为 `news-briefing`
+### ⚠️ ⚠️ 文件名格式（必须遵守！）
+**❌ 错误**：`news-briefing-2026-04-06.md`
+**✅ 正确**：`2026-04-06-news-briefing.md`
+
+Jekyll 的 permalink 规则是去掉日期前缀：
+- `2026-04-06-news-briefing.md` → URL: `/2026/04/06/news-briefing.html`
+- `news-briefing-2026-04-06.md` → URL: `/news-briefing-2026-04-06.html` ❌
 
 ---
 
